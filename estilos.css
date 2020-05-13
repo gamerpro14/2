@@ -1,0 +1,38 @@
+body {   
+    background-image: url(https://cdn.discordapp.com/attachments/709502175323226274/709506031633563710/camiseta-grifinoria-harry-potter.jpg);
+       font-family: Gotham Black;
+       background-size: auto 200vh;
+       height: 200vh
+       }
+   
+   .menu {
+     background-color: white; 
+    
+   }
+   .menu ul {
+     display: flex;
+     justify-content: space-between;
+   }
+   
+   .menu li {
+     list-style: none;
+   }
+   a {
+     text-decoration: none
+   
+   }
+   
+   a:hover {
+     text-decoration: underline
+       
+     }
+      
+   .site-subtitle,
+   .site-title {
+     color: whitesmoke;
+     text-align: center;
+   }
+   
+   .site-subtitle{
+     font-style: italic;
+   }
